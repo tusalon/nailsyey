@@ -1,20 +1,20 @@
 {
-  "name": "Karla's Nails",
-  "short_name": "Karla Nails",
+  "name": "Nail's YEY93",
+  "short_name": "YEY93",
   "description": "Uñas y belleza - Tu espacio de cuidado personal",
-  "start_url": "/karlanails/",
-  "scope": "/karlanails/",
+  "start_url": "/nailsyey/",
+  "scope": "/nailsyey/",
   "display": "standalone",
   "background_color": "#ec4899",
   "theme_color": "#ec4899",
   "icons": [
     {
-      "src": "/karlanails/icons/icon-192x192.png",
+      "src": "/nailsyey/icons/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/karlanails/icons/icon-512x512.png",
+      "src": "/nailsyey/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
